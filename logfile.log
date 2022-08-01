@@ -1,0 +1,21 @@
+2022-08-01 15:30:51,695 :INFO :test_e2e :Product to be selected:iphone
+2022-08-01 15:30:51,714 :INFO :test_e2e :iphone x
+2022-08-01 15:30:51,745 :INFO :test_e2e :product added
+2022-08-01 15:30:51,767 :INFO :test_e2e :Checkout ( 1 )
+(current)
+2022-08-01 15:30:51,957 :INFO :test_e2e :Entered the country name IND
+2022-08-01 15:30:57,055 :INFO :test_e2e :Choosen the India country from dynamic dropdown
+2022-08-01 15:30:57,141 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-01 15:31:03,211 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 15:31:05,222 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 15:31:05,749 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 15:31:05,749 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 15:31:07,756 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 15:31:07,756 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.

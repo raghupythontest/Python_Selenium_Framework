@@ -1,0 +1,80 @@
+2022-08-01 14:27:46,565 :INFO :test_e2e :Product to be selected:iphone
+2022-08-01 14:27:46,618 :INFO :test_e2e :iphone x
+2022-08-01 14:27:46,694 :INFO :test_e2e :product added
+2022-08-01 14:27:46,733 :INFO :test_e2e :Checkout ( 1 )
+(current)
+2022-08-01 14:27:47,322 :INFO :test_e2e :Entered the country name IND
+2022-08-01 14:27:52,682 :INFO :test_e2e :Choosen the India country from dynamic dropdown
+2022-08-01 14:27:52,845 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-01 15:42:03,523 :INFO :test_e2e :Product to be selected:iphone
+2022-08-01 15:42:03,544 :INFO :test_e2e :iphone x
+2022-08-01 15:42:03,586 :INFO :test_e2e :product added
+2022-08-01 15:42:03,604 :INFO :test_e2e :Checkout ( 1 )
+(current)
+2022-08-01 15:42:03,811 :INFO :test_e2e :Entered the country name IND
+2022-08-01 15:42:08,949 :INFO :test_e2e :Choosen the India country from dynamic dropdown
+2022-08-01 15:42:09,042 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-01 15:42:15,121 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 15:42:17,131 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 15:42:17,675 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 15:42:17,675 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 15:42:19,678 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 15:42:19,678 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:06:54,260 :INFO :test_e2e :Product to be selected:iphone
+2022-08-01 16:06:54,279 :INFO :test_e2e :iphone x
+2022-08-01 16:06:54,321 :INFO :test_e2e :product added
+2022-08-01 16:06:54,346 :INFO :test_e2e :Checkout ( 1 )
+(current)
+2022-08-01 16:06:54,513 :INFO :test_e2e :Entered the country name IND
+2022-08-01 16:06:59,636 :INFO :test_e2e :Choosen the India country from dynamic dropdown
+2022-08-01 16:06:59,728 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-01 16:07:05,891 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:07:07,901 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:07:08,324 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:07:08,324 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:07:10,333 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:07:10,333 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:09:35,401 :INFO :test_e2e :Product to be selected:iphone
+2022-08-01 16:09:35,422 :INFO :test_e2e :iphone x
+2022-08-01 16:09:35,454 :INFO :test_e2e :product added
+2022-08-01 16:09:35,471 :INFO :test_e2e :Checkout ( 1 )
+(current)
+2022-08-01 16:09:35,662 :INFO :test_e2e :Entered the country name IND
+2022-08-01 16:09:40,759 :INFO :test_e2e :Choosen the India country from dynamic dropdown
+2022-08-01 16:09:40,855 :INFO :test_e2e :×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-08-01 16:09:44,414 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:09:46,426 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:09:46,822 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:09:46,822 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:09:48,831 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 16:09:48,831 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 23:46:20,231 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 23:46:22,241 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 23:46:50,701 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
+2022-08-01 23:46:52,707 :INFO :testCaseForm :×
+Success! The Form has been submitted successfully!.
